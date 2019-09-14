@@ -1,0 +1,3 @@
+-this is an calender app where you can add your events.
+-you can also edit and delete already created event.
+-this app will give you warning if you try to add two event on the same day.
